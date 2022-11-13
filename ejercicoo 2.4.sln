@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicoo 2.4", "ejercicoo 2.4\ejercicoo 2.4.csproj", "{B9EC71FE-E87D-45F4-918D-59E1D6662700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9EC71FE-E87D-45F4-918D-59E1D6662700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EC71FE-E87D-45F4-918D-59E1D6662700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EC71FE-E87D-45F4-918D-59E1D6662700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EC71FE-E87D-45F4-918D-59E1D6662700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C4AA7D-47F8-4066-8F0D-6C6B637A2DB9}
+	EndGlobalSection
+EndGlobal
